@@ -2,6 +2,10 @@
 
 - a web application written in React and TypeScript, designed to help you manage your game wishlist effortlessly. It maintains a centralized store using Redux, allowing you to seamlessly organize and track the games you desire to play or purchase in the future. The UI components are built upon MUI, with a previous version of the app having used Bootstrap. 
 
+
+![image](https://github.com/saltylex/game-wishlist-react/assets/68502135/a3dfc656-ee2d-4ffa-93c0-37c25b1c5c91)
+
+
 ## Installation
 Clone the repository to your local machine:
 ```shell
