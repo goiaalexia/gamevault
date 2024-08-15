@@ -1,10 +1,13 @@
-# ♥ Game Wishlist
-
-- a web application written in React and TypeScript, designed to help you manage your game wishlist effortlessly. It maintains a centralized store using Redux, allowing you to seamlessly organize and track the games you desire to play or purchase in the future. The UI components are built upon MUI, with a previous version of the app having used Bootstrap. 
-
-
+# 🎮 Game Wishlist
 ![image](https://github.com/saltylex/game-wishlist-react/assets/68502135/a3dfc656-ee2d-4ffa-93c0-37c25b1c5c91)
 
+## Overview
+
+This project showcases a the frontend of a web application with CRUD functionalities, using a centralized Redux store for data management and MUI components. The main purpose of it is to showcase a concept for organizing and saving wishlists of video games.
+
+## Technologies
+
+- Frontend: Typescript, React, Redux, MUI
 
 ## Installation
 Clone the repository to your local machine:
@@ -49,8 +52,4 @@ Game Wishlist React is meticulously organized into modules for clarity and maint
 
 
 ## License
-Game Wishlist React is licensed under the MIT License. Refer to the LICENSE.md file for details.
-
-
-## Contact
-If you have inquiries or feedback, reach out to me! <3
+Game Wishlist is licensed under the MIT License. Refer to the LICENSE.md file for details.
