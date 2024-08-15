@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project showcases a the frontend of a web application with CRUD functionalities, using a centralized Redux store for data management and MUI components. The main purpose of it is to showcase a concept for organizing and saving wishlists of video games.
+This project showcases a the frontend of a web application with CRUD functionalities, API calls, using a centralized Redux store for data management and MUI components. The main purpose of it is to showcase a concept for organizing and saving wishlists of video games.
 
 ## Technologies
 
