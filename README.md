@@ -1,4 +1,4 @@
-# 🎮 Game Wishlist
+# 🎮 GameVault
 ![image](https://github.com/saltylex/game-wishlist-react/assets/68502135/a3dfc656-ee2d-4ffa-93c0-37c25b1c5c91)
 
 ## Overview
