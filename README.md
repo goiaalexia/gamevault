@@ -45,7 +45,7 @@ Game Wishlist React is meticulously organized into modules for clarity and maint
 - **src/** contains the source code of the application, subdivided into modules.
   - **src/components/** holds reusable React components used throughout the app.
   - **src/client/** takes care of communication with a potential backend. for now, it uses dummy calls.
-  - **src/containers/** stores containers for components and the Redux store logic.
+  - **src/containers/** stores containers for components.
   - **src/models/** holds all the necessary interfaces.
   - **src/pages/** contains the pages rendered in the app.
   - **src/store/** is responsible for managing all the Redux stores used by the app.
